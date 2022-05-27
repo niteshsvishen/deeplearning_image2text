@@ -1,0 +1,1 @@
+[{"name": "BIN_NO", "bndbox": {"xmin": 179, "ymin": 546, "xmax": 251, "ymax": 642}, "ocr_text": "B102", "score": 1}, {"name": "BIN_NO", "bndbox": {"xmin": 1281, "ymin": 862, "xmax": 1367, "ymax": 942}, "ocr_text": "B101", "score": 0.5217741}, {"name": "BIN_NO", "bndbox": {"xmin": 926, "ymin": 457, "xmax": 1003, "ymax": 529}, "ocr_text": "\u0412102", "score": 1}]

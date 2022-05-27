@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annotation>
+  <filename>https://nnts.imgix.net/uploadedfiles/891ac769-33d5-41d7-a440-10d676b929d5/PredictionImages/2103555534.jpeg?expires=1661855883&amp;or=0&amp;s=2ea3df09e9c8ea27fc347874ba1ac0bc</filename>
+  <object>
+    <name>BIN_NO</name>
+    <bndbox>
+      <xmin>1490</xmin>
+      <ymin>452</ymin>
+      <xmax>1556</xmax>
+      <ymax>488</ymax>
+    </bndbox>
+    <ocr_text>B104</ocr_text>
+    <score>0.87250954</score>
+  </object>
+  <object>
+    <name>BIN_NO</name>
+    <bndbox>
+      <xmin>621</xmin>
+      <ymin>637</ymin>
+      <xmax>692</xmax>
+      <ymax>682</ymax>
+    </bndbox>
+    <ocr_text>B104</ocr_text>
+    <score>0.8081059</score>
+  </object>
+</annotation>
